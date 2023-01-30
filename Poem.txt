@@ -4,4 +4,5 @@ Black
 purple
 pink
 Green
+While
 These are colors of a rainbow.
